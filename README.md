@@ -4,7 +4,7 @@
 * [Введение в анализ данных и машинное обучение](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture01-intro)
 * [Задачи классификации и регрессии](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture02-tasks)
 * [Оценка качества моделей и работа с признаками](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture03-features)
-* Обучение без учителя
+* [Обучение без учителя](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture04-unsupervised)
 * Ансамбли моделей
 * Анализ социальных сетей
 * Работа с текстовыми данными
