@@ -5,7 +5,7 @@
 * [Задачи классификации и регрессии](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture02-tasks)
 * [Оценка качества моделей и работа с признаками](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture03-features)
 * [Обучение без учителя](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture04-unsupervised)
-* Ансамбли моделей
+* [Ансамбли моделей](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture05-ensemble)
 * Анализ социальных сетей
 * Работа с текстовыми данными
 * Рекомендательные системы
