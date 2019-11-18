@@ -5,4 +5,5 @@
 * Извлечение признаков
 * Предобработка текстов
 * Векторные представления слов
-** ДЗ. Результатом предполагается jupyter notebook. Можно присылать на почту artem.zraev@creative-mobile.com 
+
+* ДЗ. Результатом предполагается jupyter notebook. Можно присылать на почту artem.zraev@creative-mobile.com 
