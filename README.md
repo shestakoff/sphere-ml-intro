@@ -12,4 +12,5 @@
 * [Семинар](https://github.com/shestakoff/sphere-ml-intro/tree/master/seminar)
 * [Нейронные сети. Основы](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture10-dlintro)
 * [Свёрточные нейронные сети. Часть 1](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture11-cnn)
-* Свёрточные нейронные сети. Часть 2
+* [Свёрточные нейронные сети. Часть 2](https://github.com/shestakoff/sphere-ml-intro/tree/master/lecture12-dl)
+
