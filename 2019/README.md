@@ -1,0 +1,15 @@
+# [Введение в машинное обучение 2019](https://sphere.mail.ru/curriculum/program/discipline/849/)
+
+## Программа курса
+* [Введение в анализ данных и машинное обучение](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture01-intro)
+* [Задачи классификации и регрессии](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture02-tasks)
+* [Оценка качества моделей и работа с признаками](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture03-features)
+* [Обучение без учителя](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture04-unsupervised)
+* [Ансамбли моделей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture05-ensemble)
+* [Анализ социальных сетей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture06-networks)
+* [Работа с текстовыми данными](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture07-nlp)
+* [Рекомендательные системы](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture08-recomendations)
+* [Семинар](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/seminar)
+* [Нейронные сети. Основы](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture10-dlintro)
+* [Свёрточные нейронные сети. Часть 1](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture11-cnn)
+* [Свёрточные нейронные сети. Часть 2](https://github.com/shestakoff/sphere-ml-intro/tree/master/2019/lecture12-dl)
