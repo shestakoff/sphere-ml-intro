@@ -6,7 +6,7 @@
 * [Оценка качества моделей и работа с признаками](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture03-features)
 * [Обучение без учителя](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture04-unsupervised)
 * [Ансамбли моделей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture05-ensemble)
-* Анализ социальных сетей
+* [Анализ социальных сетей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture06-networks)
 * Работа с текстовыми данными
 * Рекомендательные системы
 * Семинар
