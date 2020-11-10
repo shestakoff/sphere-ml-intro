@@ -7,7 +7,7 @@
 * [Обучение без учителя](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture04-unsupervised)
 * [Ансамбли моделей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture05-ensemble)
 * [Анализ социальных сетей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture06-networks)
-* Работа с текстовыми данными
+* [Работа с текстовыми данными](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture07-nlp)
 * Рекомендательные системы
 * Семинар
 * Нейронные сети. Основы
