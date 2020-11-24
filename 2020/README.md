@@ -9,7 +9,7 @@
 * [Анализ социальных сетей](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture06-networks)
 * [Работа с текстовыми данными](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture07-nlp)
 * [Рекомендательные системы](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture08-recsys)
-* Семинар
+* [Семинар](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/seminar)
 * Нейронные сети. Основы
 * Свёрточные нейронные сети. Часть 1
 * Свёрточные нейронные сети. Часть 2
