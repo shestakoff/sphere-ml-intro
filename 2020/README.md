@@ -11,5 +11,5 @@
 * [Рекомендательные системы](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture08-recsys)
 * [Семинар](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/seminar)
 * [Нейронные сети. Основы](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture10-dl-intro)
-* Свёрточные нейронные сети. Часть 1
+* [Свёрточные нейронные сети. Часть 1](https://github.com/shestakoff/sphere-ml-intro/tree/master/2020/lecture11-cnn)
 * Свёрточные нейронные сети. Часть 2
